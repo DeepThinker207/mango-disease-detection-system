@@ -1,0 +1,17 @@
+{
+  "name": "plant_disease_detection-main",
+  "version": "1.0.0",
+  "description": "A web application that uses on-device AI for real-time plant disease detection and a secure backend to provide AI-generated treatment plans.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "onnxruntime-web": "^1.24.1"
+  }
+}
